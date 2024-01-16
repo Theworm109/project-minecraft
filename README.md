@@ -1,2 +1,2 @@
 # project-minecraft
-modpack repo for project:zero's minecraft server
+check out issues for mod suggestions, bugs, and general technical discussion about the modpack.
