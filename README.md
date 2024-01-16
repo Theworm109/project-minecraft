@@ -5,6 +5,8 @@ mods are seaperated into 3 files. mods required for the server only, client only
 
 mods which are not shared are generally optional, and can be safely removed.
 
+mods which have dependancies will be grouped together in a single file. if multiple mods share a dependancy, it will be placed in its respective root folder.
+
 after it's decided that the pack is ready for a release, a zip file will be made of all the mods required for both server and client useage seaperately.
 
 if you would like to directly contribute to the modpack, create a pull request with your desired changes and they will be reviewed as soon as possible.
