@@ -15,6 +15,6 @@ after it's decided that the pack is ready for a release, a zip file will be made
 
 if you would like to directly contribute to the modpack, create a pull request with your desired changes and they will be reviewed as soon as possible.
 
-final notes: this repo is public for convenance and to easily share with friends. if you wish to not have your mod in this pack, please leave an issue or email sweglord227@gmail.com. if we wish to continue useing your mod.
+final notes: this repo is public for convenance and to easily share with friends. if you wish to not have your mod in this pack, please leave an issue or email sweglord227@gmail.com.
 
 mod lists and links will be posted on the release page.
