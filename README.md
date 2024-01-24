@@ -16,3 +16,9 @@ mod lists and links will be posted on the release page.
 mods which are not shared are generally optional, and can be safely removed.
 
 feel free to take this as seriously as you'd like. i just like being overly professional. it's fun sometimes.
+
+
+
+and as a final note:
+
+# THIS IS VERY WIP. SUCKS TO SUCK + L + RATIO
