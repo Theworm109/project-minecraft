@@ -10,3 +10,9 @@ if you would like to directly contribute to the modpack, create a pull request w
 final notes: this repo is public for convenance and to easily share with friends. if you wish to not have your mod in this pack, please leave an issue or email sweglord227@gmail.com.
 
 mod lists and links will be posted on the release page.
+
+# INFO
+
+mods which are not shared are generally optional, and can be safely removed.
+
+feel free to take this as seriously as you'd like. i just like being overly professional. it's fun sometimes.
