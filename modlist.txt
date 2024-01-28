@@ -1,0 +1,7 @@
+MOD            | LINK
+---------------|-----------------
+iris           | https://modrinth.com/mod/iris
+sodium         | https://modrinth.com/mod/sodium
+lithium        | https://modrinth.com/mod/lithium
+modmenu        | https://modrinth.com/mod/modmenu
+qfapi          | https://modrinth.com/mod/qsl
