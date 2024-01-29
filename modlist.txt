@@ -12,8 +12,8 @@ Pickup Torch   | https://www.curseforge.com/minecraft/mc-mods/pickuptorches/file
 CarryOn        | https://www.curseforge.com/minecraft/mc-mods/carry-on/files/4882500
 Enhanced Celestial | https://modrinth.com/mod/enhanced-celestials/version/1.20.1-5.0.0.2-forge
 Friends & Foes | https://www.curseforge.com/minecraft/mc-mods/friends-and-foes-forge/files/5012919
-Mine Traps     | https://www.curseforge.com/minecraft/mc-mods/minetraps/files/4987791/changelog
-        | https://modrinth.com/mod/modmenu
+Mine Traps     | https://www.curseforge.com/minecraft/mc-mods/minetraps/files/4987791/changelog   
+| https://modrinth.com/mod/modmenu
 qfapi          | https://modrinth.com/mod/qsl
 RL Torch       | https://www.curseforge.com/minecraft/mc-mods/realistic-torches/files/4765544
 Aquatic Torch  | https://www.curseforge.com/minecraft/mc-mods/aquatic-torches/files/4825253
