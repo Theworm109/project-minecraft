@@ -16,7 +16,11 @@ Mine Traps     | https://www.curseforge.com/minecraft/mc-mods/minetraps/files/49
 Better Combat  | https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus/files/5065424
 TerraFirmaCraft| https://www.curseforge.com/minecraft/mc-mods/terrafirmacraft/files/5065718
 Ambient Environment | https://www.curseforge.com/minecraft/mc-mods/ambient-environment/files/4977859
-  | https://www.curseforge.com/minecraft/mc-mods/aquatic-torches/files/4825253
-Fragile Torch  | https://www.curseforge.com/minecraft/mc-mods/fragile-torches/files/4625833
-Pickup Torch   | https://www.curseforge.com/minecraft/mc-mods/pickuptorches/files/4954475
-CarryOn        | https://www.curseforge.com/minecraft/mc-mods/carry-on/files/4882500
+Observable     | https://www.curseforge.com/minecraft/mc-mods/observable/files/4736488
+Ecoligics      | https://www.curseforge.com/minecraft/mc-mods/ecologics/files/4857272
+Galosphere     | https://www.curseforge.com/minecraft/mc-mods/galosphere/files/4983871
+Deep Dark Regrowth | https://www.curseforge.com/minecraft/mc-mods/deep-dark-regrowth/files/4941721
+Born In Chaos  | https://www.curseforge.com/minecraft/mc-mods/born-in-chaos/files/4906526
+Enhanced Mob Spawner | https://www.curseforge.com/minecraft/mc-mods/enhanced-mob-spawners/files/4639455
+Forgified Fabric Api | https://www.curseforge.com/minecraft/mc-mods/forgified-fabric-api/files/5048212
+Sinytra Connector | https://www.curseforge.com/minecraft/mc-mods/sinytra-connector/files/5062926
