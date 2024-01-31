@@ -22,5 +22,6 @@ Galosphere     | https://www.curseforge.com/minecraft/mc-mods/galosphere/files/4
 Deep Dark Regrowth | https://www.curseforge.com/minecraft/mc-mods/deep-dark-regrowth/files/4941721
 Born In Chaos  | https://www.curseforge.com/minecraft/mc-mods/born-in-chaos/files/4906526
 Enhanced Mob Spawner | https://www.curseforge.com/minecraft/mc-mods/enhanced-mob-spawners/files/4639455
+Sophisticated Backpack| https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks/files/4993659
 Forgified Fabric Api | https://www.curseforge.com/minecraft/mc-mods/forgified-fabric-api/files/5048212
 Sinytra Connector | https://www.curseforge.com/minecraft/mc-mods/sinytra-connector/files/5062926
